@@ -1,4 +1,8 @@
 -------------------------------------------------------------------------------
 Test set: uvsq.pglp_3_3.AppTest
 -------------------------------------------------------------------------------
+<<<<<<< HEAD
 Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.107 sec - in uvsq.pglp_3_3.AppTest
+=======
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.014 sec - in uvsq.pglp_3_3.AppTest
+>>>>>>> d1fc31c7902ebd888fc9654359e

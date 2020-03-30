@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 /home/user/eclipse-java-oxygen-workspace/pglp_3_3/src/main/java/uvsq/pglp_3_3/App.java
+=======
+/home/user/eclipse-java-oxygen-workspace/pglp_3_3/src/main/java/uvsq/pglp_3_3/RobotDynamique.java
+/home/user/eclipse-java-oxygen-workspace/pglp_3_3/src/main/java/uvsq/pglp_3_3/App.java
+/home/user/eclipse-java-oxygen-workspace/pglp_3_3/src/main/java/uvsq/pglp_3_3/RobotStatique.java
+/home/user/eclipse-java-oxygen-workspace/pglp_3_3/src/main/java/uvsq/pglp_3_3/Robot.java
+>>>>>>> d1fc31c7902ebd888fc9654359e
