@@ -2,7 +2,7 @@ package uvsq.pglp_3_3;
 
 public class RobotDynamique extends Robot{
 	
-	String position;
+	//String position;
 
 	public void avance() {
 		System.out.println("je suis dynamique");
