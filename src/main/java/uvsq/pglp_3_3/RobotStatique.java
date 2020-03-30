@@ -1,9 +1,11 @@
 package uvsq.pglp_3_3;
 
-public abstract class RobotStatique{
+public class RobotStatique extends Robot{
 
-	String direction;
-
-	public void tourne() { }
+	@Override
+	public void tourne() {
+		// TODO Auto-generated method stub
+		
+	}
 
 }
